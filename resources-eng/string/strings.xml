@@ -1,0 +1,53 @@
+<strings>
+    <string id="AppName">SubMusic</string>
+    
+    <string id="ApiStandard">API backend</string>
+    <string id="ApiStandardSubsonic">Subsonic API</string>
+    <string id="ApiStandardAmpache">Ampache API</string>
+    <string id="ServerAddress">Server Address</string>
+    <string id="ServerUser">Username</string>
+    <string id="ServerKey">API key</string>
+
+    <string id="confSync_Title">Sync settings</string>
+    <string id="confSync_StartSync_label">Sync</string>
+    <string id="confSync_Playlists_title">Choose lists</string>
+    <string id="confSync_Playlists_label">Select Playlists</string>
+    <string id="confSync_SelectPlaylists_label">Select Playlists</string>
+    <string id="confSync_ManagePlaylists_label">Manage Playlists</string>
+    
+    <string id="confSync_MoreInfo_label">More Info</string>
+    <string id="confSync_MoreInfo_title">More Info</string>
+    <string id="confSync_MoreInfo_TestServer_label">Test Server</string>
+    <string id="confSync_MoreInfo_ServerDetail_label">Server</string>
+    <string id="confSync_MoreInfo_ServerDetail_sublabel">Show server settings</string>
+    <string id="confSync_MoreInfo_RemoveAll_label">Remove Data</string>
+    <string id="confSync_MoreInfo_RemoveAll_sublabel">Reset application storage</string>
+    
+    <string id="Donate_label">Donate</string>
+    
+    <string id="confSync_PlaylistDetail_label">Playlist Detail</string>
+    <string id="confSync_Test_start">Starting test...</string>
+    
+    <string id="configurePlaybackMessage">Configure\nPlayback</string>
+    
+    <string id="confPlayback_Title">Play</string>
+    <string id="confPlayback_NowPlaying_title">Now Playing</string>
+    <string id="confPlayback_NowPlaying_label">Now Playing</string>
+    <string id="confPlayback_PlayAll_label">Play All</string>
+    <string id="confPlayback_SelectPlaylist_label">Playlists</string>
+    <string id="confPlayback_OpenSync_label">More...</string>
+    
+    <string id="placeholder_noMenuItems">Nothing to show</string>
+    <string id="placeholder_loading">Loading..</string>
+    <string id="placeholder_noRemotePlaylists">No Remote Playlists</string>
+    <string id="fetchingSongs">Fetching Songs...</string>
+    <string id="fetchingPlaylists">Fetching Playlists...</string>
+    <string id="playbackMenuTitle">Playlists</string>
+
+    <string id="Menu_PlaylistSongs_title">Songs</string>
+    <string id="Menu_PlayNow_label">Play Now</string>
+    <string id="Menu_PlayShuffle_label">Shuffle</string>
+    <string id="Menu_PodcastMode_label">Podcast Mode</string>
+    <string id="Menu_PodcastMode_sublabel">Stores play state</string>
+    <string id="Menu_Songs_label">Songs</string>
+</strings>
