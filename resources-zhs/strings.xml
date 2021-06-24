@@ -1,0 +1,53 @@
+<strings>
+    <string id="AppName">SubMusic</string>
+    
+    <string id="ApiStandard">API 服务端</string>
+    <string id="ApiStandardSubsonic">Subsonic API</string>
+    <string id="ApiStandardAmpache">Ampache API</string>
+    <string id="ServerAddress">服务器地址</string>
+    <string id="ServerUser">用户名</string>
+    <string id="ServerKey">API key</string>
+
+    <string id="confSync_Title">同步设置</string>
+    <string id="confSync_StartSync_label">同步</string>
+    <string id="confSync_Playlists_title">选择列表</string>
+    <string id="confSync_Playlists_label">选择播放列表</string>
+    <string id="confSync_SelectPlaylists_label">选择播放列表</string>
+    <string id="confSync_ManagePlaylists_label">管理播放列表</string>
+    
+    <string id="confSync_MoreInfo_label">更多信息</string>
+    <string id="confSync_MoreInfo_title">更多信息</string>
+    <string id="confSync_MoreInfo_TestServer_label">服务器测试</string>
+    <string id="confSync_MoreInfo_ServerDetail_label">服务器</string>
+    <string id="confSync_MoreInfo_ServerDetail_sublabel">显示服务器设置</string>
+    <string id="confSync_MoreInfo_RemoveAll_label">清除数据</string>
+    <string id="confSync_MoreInfo_RemoveAll_sublabel">重置应用存储</string>
+    
+    <string id="Donate_label">捐赠</string>
+    
+    <string id="confSync_PlaylistDetail_label">播放列表详情</string>
+    <string id="confSync_Test_start">开始测试...</string>
+    
+    <string id="configurePlaybackMessage">配置\n回放</string>
+    
+    <string id="confPlayback_Title">播放</string>
+    <string id="confPlayback_NowPlaying_title">正在播放</string>
+    <string id="confPlayback_NowPlaying_label">正在播放</string>
+    <string id="confPlayback_PlayAll_label">播放全部</string>
+    <string id="confPlayback_SelectPlaylist_label">播放列表</string>
+    <string id="confPlayback_OpenSync_label">更多...</string>
+    
+    <string id="placeholder_noMenuItems">内容为空</string>
+    <string id="placeholder_loading">加载中..</string>
+    <string id="placeholder_noRemotePlaylists">没有远程播放列表</string>
+    <string id="fetchingSongs">获取曲目中...</string>
+    <string id="fetchingPlaylists">获取播放列表中...</string>
+    <string id="playbackMenuTitle">播放列表</string>
+
+    <string id="Menu_PlaylistSongs_title">曲目</string>
+    <string id="Menu_PlayNow_label">正在播放</string>
+    <string id="Menu_PlayShuffle_label">打乱顺序</string>
+    <string id="Menu_PodcastMode_label">播客模式</string>
+    <string id="Menu_PodcastMode_sublabel">存储播放进度</string>
+    <string id="Menu_Songs_label">曲目</string>
+</strings>
